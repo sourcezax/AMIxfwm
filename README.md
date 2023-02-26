@@ -10,9 +10,13 @@ It isn't a real copy, I made it from scratch for fun and I needed to make some m
 
 There are two flavours of this theme :
 
-### AMIxfwm : Standard, with the classic colors of 2.0/3.0 original OS
+### AMIxfwm 
 
-### AMIxfwm-Gradient : The same with a light gradient, looks better and more modern. 
+Standard, with the classic colors of 2.0/3.0 original OS
+
+### AMIxfwm-Gradient
+
+The same with a light gradient, looks better and more modern. 
 
 
 ## Preview

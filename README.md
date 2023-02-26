@@ -1,4 +1,4 @@
-# Back to the past (or to the future ;-) )!
+# Back to the past (or to the future)!  ;-) 
 
 Do you want some fun with XFCE or are you nostalgic of the nineties?
 

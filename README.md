@@ -27,10 +27,9 @@ The same with a light gradient, looks better and more modern.
 
 
 - Extract the archive and copy its content to your $USER/.themes directory (or /usr/share/themes if you prefer). 
-- Open the windows manager settings, choose the theme. Don't forget to move the close button (as shown in the picture) on the left.
+- If you want to have the close button on the left, open the windows manager settings, choose the theme and move the close button (as shown in the picture) on the left.
 - Enjoy :)
 
-Enjoy.
 
 ## About & License
 (C) 2023 "Thomas Missonier 2020 (https://github.com/sourcezax)

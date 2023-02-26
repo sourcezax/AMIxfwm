@@ -1,33 +1,61 @@
-#Back to the past (or to the future ;-) )!
+# Callixum Theme
+-----------
+(C) 2012 "Thomas Missonier 2012 (https://github.com/sourcezax)
 
-Do you want some fun with XFCE or are you nostalgic of the nineties?
+License GPL V3(See http://www.gnu.org/licenses/gpl.html).        
 
-Try this theme! 
+2012 : Here is my first XFCE Theme from scratch, and I share it with you :)
 
-It's inspired by a famous 90's computer OS and especially designed to use on HD display.
+2023 : Here for memories. Note, i still use it on my laptop ;)
 
-It isn't a real copy, I made it from scratch for fun and I needed to make some minor changes / improvements in order to works with xfwm.
+## Preview 
 
-There are two flavours of this theme :
+![Screenshot](images/Callixum-demo.jpg)
 
-### AMIxfwm : Standard, with the classic colors of 2.0/3.0 original OS
+## How to Install it?
 
-### AMIxfwm-Gradient : The same with a light gradient, looks better and more modern. 
+Just copy the content of the Callixum-theme folder (except this README file) to your usr/share/themes or your themes folder and Enjoy :)
+Compatible with XFCE 4.2+
 
--------------
-##Preview
+Version 2.2
 
-![Screenshot](images/AMIxfwm.png)
+## Changelog
 
-## How to install it?
+### Version 1.0
+
+First version
 
 
-- Extract the archive and copy its content to your $USER/.themes directory (or /usr/share/themes if you prefer). 
-- Open the windows manager settings, choose the theme. Don't forget to move the close button (as shown in the picture) on the left.
-- Enjoy :)
+### Version 2.0
 
-Enjoy.
+- New Window toolbar Gradient.
+- New Buttons
+- Added Hover (Prelight) and Toggle actions.
+- New colors (buttons,toolbars and text)
+-Removed artefacts on borders
 
-## About & License
-(C) 2023 "Thomas Missonier 2020 (https://github.com/sourcezax)
-License GPL V3(See)[http://www.gnu.org/licenses/gpl.html].
+### Version 2.1
+
+- Changed to darker colors on prelight buttons.
+- Unify the clicked buttons.
+ 
+
+### Version 2.2
+
+- Renamed Callixum-v2 to Callixum 
+- Added new versions of this theme :
+- Callixum-candy
+- Callixum-gold
+- Callixum-night
+- Callixum-basic
+- Callixum-chrome
+- Callixum-gray
+- Callixum-sky
+- Callixum-blue
+- Callixum-dark
+- Callixum-metal
+
+### 2023
+2023 README.md for github
+
+

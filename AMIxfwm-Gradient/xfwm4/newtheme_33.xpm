@@ -1,0 +1,9 @@
+/* XPM */
+static char *newtheme_33[] = {
+/* columns rows colors chars-per-pixel */
+"9 2 1 1 ",
+"  c black",
+/* pixels */
+"         ",
+"         "
+};
